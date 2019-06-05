@@ -3,5 +3,9 @@
 
 def parrot(phrase = "Squawk!")
   puts "#{phrase}"
+<<<<<<< HEAD
   return phrase
 end
+=======
+end
+>>>>>>> edb19a5d3830f883fedd77d46b52c336e67ed816
